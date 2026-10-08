@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "2592b9c0622ded30",
+    "type": "split",
+    "children": [
+      {
+        "id": "609d5a7d58fec623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb5ff780d368e24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e63a0eed815faac",
+    "type": "split",
+    "children": [
+      {
+        "id": "80f5557a2fafce2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba7c57d61bd7477",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "014f2874c0e4d5c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "07",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "e63d700c275098c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3beb91e54d21d6ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce4f1112a622b9fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3715fce1bab0cc5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prova/Senza nome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Senza nome"
+            }
+          },
+          {
+            "id": "8e9a6b0a3c4d129b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prova/Senza nome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Senza nome"
+            }
+          },
+          {
+            "id": "b38e2c55ba60c217",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "507d9453cac8abb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "903cc5b8707f6db9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "bfb5ff780d368e24",
+  "lastOpenFiles": [
+    "20262027EngeneeringNotes",
+    "20262027EngeneeringNotes/Geometria ed Algebra Lineare/Fondamenti teorici — insiemi, relazioni, funzioni/11_Prodotto_Cartesiano.md",
+    "Tools/Screenshots/Analisi1/Limiti/PermanenzaSegno.png",
+    "Tools/Screenshots/Analisi1/Limiti/LimiteEccesso.png",
+    "Tools/Screenshots/Analisi1/Limiti/LimiteDifettoComeSup.png",
+    "Tools/Screenshots/Analisi1/Limiti/LimitazioneXquadrato.png",
+    "Tools/Screenshots/Analisi1/Limiti/ConvergenzaQuindiLimitata.png",
+    "Tools/Screenshots/Analisi1/Limiti/BandeLimitiDisgiunti.png",
+    "Tools/Screenshots/Analisi1/Limiti/BandaContenenteLimite.png",
+    "Tools/Screenshots/Analisi1/Limiti/34_Algebra_dei_Limiti.md",
+    "Tools/Screenshots/Analisi1/Limiti/32_Successione_Convergente_e_Limitata.md",
+    "Tools/Screenshots/Analisi1/Limiti/30_Limiti_di_Successioni.md",
+    "Tools/Screenshots/Analisi1/Limiti/20_Funzioni_Limitate_Estremi.md",
+    "Tools/Screenshots/Analisi1/Funzioni/Successione1suN.png",
+    "Tools/Screenshots/Analisi1/Funzioni/SuccessionePuntiIsolati.png",
+    "Tools/Screenshots/Analisi1/Funzioni/Rcomeretta.png",
+    "Tools/Screenshots/Analisi1/Limiti",
+    "Tools/Screenshots/Analisi1/Funzioni",
+    "Tools/Screenshots/Analisi1/Complessi",
+    "Tools/Template/Template.md",
+    "Tools/Screenshots/FI",
+    "Tools/Screenshots/GAL",
+    "Tools/Screenshots/Analisi1",
+    "Tools/Template",
+    "Tools/Screenshots",
+    "Tools",
+    "Geometria ed Algebra Lineare/Metodo di eliminazione di Gauss (MEG)/67_Operazioni_Elementari_sulle_Righe.md",
+    "Geometria ed Algebra Lineare/Metodo di eliminazione di Gauss (MEG)/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
+    "Geometria ed Algebra Lineare/Metodo di eliminazione di Gauss (MEG)/70_Reversibilita_del_MEG.md",
+    "Geometria ed Algebra Lineare/Metodo di eliminazione di Gauss (MEG)/68_Metodo_di_Eliminazione_di_Gauss.md",
+    "Geometria ed Algebra Lineare/Metodo di eliminazione di Gauss (MEG)/69_Pivot_e_Matrice_a_Scala.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/28_Determinanti_2x2_e_3x3.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/27_Prodotto_Esterno.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/26_Prodotto_Interno_in_Coordinate.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/25_Prodotto_Interno_e_Ortogonalita.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/24_Proprieta_delle_Operazioni_tra_Vettori.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/22_Operazioni_tra_Vettori.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/23_Sistemi_di_Riferimento_e_Coordinate.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/21_Vettori_come_Classi_di_Equivalenza.md",
+    "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/20_Segmenti_Orientati_ed_Equipollenza.md",
+    "Geometria ed Algebra Lineare/Rango/73_MEG_e_Rango.md",
+    "Geometria ed Algebra Lineare/Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
+    "Geometria ed Algebra Lineare/Rango/63_Rango_di_una_Matrice.md",
+    "Geometria ed Algebra Lineare/Organizzazione/10_Organizzazione_del_Corso.md",
+    "Geometria ed Algebra Lineare/Fondamenti teorici — insiemi, relazioni, funzioni/31_Il_Campo_F2.md",
+    "Geometria ed Algebra Lineare/Metodo di eliminazione di Gauss (MEG)",
+    "Senza nome.canvas"
+  ]
+}
